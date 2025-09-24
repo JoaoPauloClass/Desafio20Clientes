@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Desafio20Clientes</string>
+    <string name="app_name">Desafio 20 Clientes</string>
+    <string name="add_cliente">Adicionar Cliente</string>
+    <string name="edit_cliente">Editar Cliente</string>
+    <string name="delete">Excluir</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
 </resources>
